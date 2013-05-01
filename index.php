@@ -26,8 +26,10 @@
 
 	<section class="spotlight">
 		<div class="container">
-			<h1>The Most Important Tool You Will Ever Use, Ever</h1>
-			<h5>Cats are now everyday parts of your lives &mdash; use them as your workers</h5>
+			<hgroup>
+				<h1>The Most Important Tool You Will Ever Use, Ever</h1>
+				<h5>Cats are now everyday parts of your lives &mdash; use them as your workers</h5>
+			</hgroup>
 		</div>
 	</section>
 
@@ -40,7 +42,10 @@
 			<article>
 				<h3>The Most Important Article in the World</h3>
 				<p>
-					<img src="http://placekitten.com/200/300" class="pull-right" />
+					<aside>
+						<img src="http://placekitten.com/200/300" class="pull-right" />
+					</aside>
+
 					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras odio felis, scelerisque vitae vulputate pharetra, sagittis id velit. Vestibulum a dolor facilisis dolor laoreet volutpat et sit amet eros. Cras ut mi sed turpis euismod vehicula non nec sapien. Ut lobortis, magna sit amet tristique ultrices, turpis nunc ultricies massa, ut molestie felis sem id libero. Donec in elit mi, at feugiat lectus. Etiam sodales consequat felis id vulputate. Donec pretium neque a libero porttitor vel scelerisque magna semper. In vel imperdiet risus. Duis venenatis leo a justo ullamcorper molestie semper eros pharetra. Vestibulum eu lorem enim, eu blandit lectus. Maecenas eu aliquam nunc.</p>
 
 <p>Praesent sed justo et mauris lobortis tempor vitae eget quam. Morbi venenatis consectetur faucibus. Morbi porta, lorem ut condimentum blandit, ligula dui rutrum tellus, non pretium tortor purus non metus. Mauris massa augue, consequat ac varius sit amet, consectetur fermentum risus. Aliquam mattis erat quis orci aliquam sed imperdiet felis vestibulum. Proin euismod arcu vel eros ultricies tempus. Curabitur vitae purus augue. Integer adipiscing elementum orci, nec feugiat turpis viverra ac. Suspendisse tincidunt, lacus ac hendrerit suscipit, turpis libero egestas nunc, pharetra pellentesque nibh purus vel enim. Aliquam nec commodo mauris. Duis nec convallis massa. Sed dapibus placerat purus at ultricies. Nam varius purus eu odio consectetur rhoncus at id nulla. Morbi sit amet leo quis felis rhoncus ultrices et et eros. Vivamus ac porta odio. Donec nec nisi leo.</p>
@@ -49,6 +54,18 @@
 
 <blockquote><p>"Vivamus rutrum hendrerit mauris, sit amet volutpat mauris faucibus quis."</p></blockquote>
 <p> Donec faucibus est arcu, at elementum orci. Morbi blandit vestibulum placerat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eget lacus non neque iaculis tempor non a orci. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur eget dui arcu, et imperdiet nibh.</p>
+
+<!-- Let's Sell -->
+<div class="side-by-side">
+	<div class="side">
+
+	</div>
+
+	<div class="side">
+
+	</div>
+</div>
+
 <p>Praesent ullamcorper tortor sed tellus mattis viverra luctus magna interdum. Morbi non nisl tellus, tincidunt auctor odio. Morbi sit amet justo et odio tincidunt gravida nec ut tellus. Suspendisse id mi et elit hendrerit malesuada. Aenean aliquet ullamcorper mattis. In tincidunt dapibus quam, vitae semper velit placerat ut. Ut nec erat sed quam eleifend placerat sed vitae justo. Suspendisse ligula neque, iaculis vitae lacinia a, vulputate eu est. Praesent tincidunt elementum risus sit amet egestas. Aliquam sapien odio, tincidunt vitae varius sit amet, ullamcorper et diam. Donec eget nibh elementum diam dictum egestas et at libero. Donec ac orci vel massa vehicula aliquam et nec magna. Morbi in nunc a mauris cursus facilisis ut in leo.</p>
 
 <p>Listen to some cats!</p>
